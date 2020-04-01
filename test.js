@@ -1,5 +1,7 @@
 $('.load-more').remove();
 
+$('.page-title').html('Gata, gluma nu mai este disponibila. Vot tak vot(((');
+/*
 $('.page-title').replaceWith('<article class="single-post" id="article" data-target="147">\n' +
   '\t\t\t\t    <header class="post-header">\n' +
   '\t\t\t\t<a class="entry-category" href="Inspiratie">Actual</a>\n' +
@@ -154,3 +156,4 @@ $('.page-title').replaceWith('<article class="single-post" id="article" data-tar
   '\t\t\t\t\t\t</div>\n' +
   '\t\t\t\t\t</div>\n' +
   '\t\t\t\t</article>')
+*/
