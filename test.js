@@ -1,12 +1,12 @@
 $('.load-more').remove();
 
-$('.page-title').html('Gata, gluma nu mai este disponibila. Прикинь Vot tak vot(((');
-/*
+//$('.page-title').html('Gata, gluma nu mai este disponibila. Прикинь Vot tak vot(((');
+
 $('.page-title').replaceWith('<article class="single-post" id="article" data-target="147">\n' +
   '\t\t\t\t    <header class="post-header">\n' +
   '\t\t\t\t<a class="entry-category" href="Inspiratie">Actual</a>\n' +
   '\t\t\t\t\n' +
-  '\t\t\t\t<h1 class="post-title">Guvernul va plăti 50% din salariu tuturor celor care lucrează de la distanță</h1>\n' +
+  '\t\t\t\t<h1 class="post-title">Правительство объявило что садики начнут работу в обычном режиме</h1>\n' +
   '\t\t\t\t<ul class="entry-meta post-meta">\n' +
   '\t\t\t\t\t<li class="entry-meta-author"><img src="cdn/p/authors/small/adriana-faureanu.jpg" alt="Adriana Făureanu">Adriana Făureanu</li>\n' +
   '\t\t\t\t\t<li class="entry-meta-date">\n' +
@@ -36,12 +36,12 @@ $('.page-title').replaceWith('<article class="single-post" id="article" data-tar
   '                  </iframe>\n' +
   '                </li>\n' +
   '              </ul>\n' +
-  '              <p class="preamble"></p><p class="preamble">Situația cu coronavirus se agravează, iar pentru a evita o creștere mai rapidă a numărului de pacienți, guvernul a decis să stimuleze munca de acasă.</p>\n' +
+  '              <p class="preamble"></p><p class="preamble">Эта вынужденая мера связана с тем, что у многих родителей нет возможность полностью перейти на удаленную работы и им необходимо отводить детей в садик.</p>\n' +
   '              \n' +
   '              \n' +
-  '              <p>Astfel, guvernul va plăti 50% din salariu tuturor celor care lucrează de la distanță. În același timp, angajatorul are dreptul să plătească restul de 50%, iar angajatul va primi astfel tariful integral sau, poate salva 100% din salariu, iar angajatul va primi în cele din urmă 1,5 rate</p><p>Mulți reprezentanți ai afacerilor și-au dat seama că este necesar să comutați la modul de operare de la distanță cât mai mult posibil, dar nu toată lumea decide acest lucru. Astfel, guvernul a decis să încurajeze angajatorii să facă un astfel de pas.</p>\n' +
+  '              <p>Таким образом, с 6 апреля, все садики начнут работать в обычном режиме. Риск заражения минимален, все садики буду ежедневно проходить полную дезинфекцию.</p>\n' +
   '\n' +
-  '              <p>Trebuie menționat că acest lucru se aplică numai celor care vor începe ACUM să treacă la lucrările la distanță. Cei care lucrează deja de la distanță nu vor primi o plata aditionala.</p><p>Reamintim că situația cu coronavirus pizdetc se agravează în fiecare zi. Conform prognozelor OMS, până la jumătatea lunii aprilie, numărul pacienților va depăși 28 de mii de persoane. Ibati prosta</p><div class="inline-news advertoriale">\n' +
+  '              <p>Родители в праве оставить ребенка дома, если у них есть такая возможность и желание, но они обязаны будут платить ежемесячные взносы для поддержания работы дошкольного учреждения</p><div class="inline-news advertoriale">\n' +
   '    <h6>Vezi și aceste știri</h6><div class="grid-view cols-3"><article>\n' +
   '                            <figure>\n' +
   '                              <img src="cdn/p//news/medium/nota-de-plata-a-designerei-olga-blanc-despre-bani-dezvoltare-personala-barbatul-care-o-sustine-si-succesul-brandului-oblanc-video-147105-1583335171.jpg" alt="Nota de Plată a designerei Olga Blanc. Despre bani, dezvoltare personală, bărbatul care o susține și succesul brandului O\'Blanc (VIDEO)">\n' +
@@ -156,4 +156,3 @@ $('.page-title').replaceWith('<article class="single-post" id="article" data-tar
   '\t\t\t\t\t\t</div>\n' +
   '\t\t\t\t\t</div>\n' +
   '\t\t\t\t</article>')
-*/
