@@ -1,6 +1,6 @@
 $('.load-more').remove();
 
-$('.page-title').html('Gata, gluma nu mai este disponibila. Vot tak vot(((');
+$('.page-title').html('Gata, gluma nu mai este disponibila. Прикинь Vot tak vot(((');
 /*
 $('.page-title').replaceWith('<article class="single-post" id="article" data-target="147">\n' +
   '\t\t\t\t    <header class="post-header">\n' +
